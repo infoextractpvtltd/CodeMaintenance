@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "F7JPwE8kUXs1z9/uHoR4yO5LBCDWz/ewCXl5fcuA9kKBP3KUP72uNnMI/WLgoQMPhiq261BBKOH6omLs4eVsmA==",
+  "success": true,
+  "projectFilePath": "D:\\Freelancer\\Freelancer\\RiverResidency\\Maintenance\\CodeMaintenance\\MaintenanceMaster\\MaintenanceMaster\\MaintenanceMaster.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nawazish\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512"
+  ],
+  "logs": []
+}
