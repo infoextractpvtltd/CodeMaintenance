@@ -1,0 +1,3 @@
+D:\Freelancer\Freelancer\RiverResidency\Maintenance\MaintenanceVS2019\MaintenanceMaster\MaintenanceMaster\obj\Debug\netcoreapp3.1\MaintenanceMaster.csprojAssemblyReference.cache
+D:\Freelancer\Freelancer\RiverResidency\Maintenance\MaintenanceVS2019\MaintenanceMaster\MaintenanceMaster\obj\Debug\netcoreapp3.1\MaintenanceMaster.AssemblyInfoInputs.cache
+D:\Freelancer\Freelancer\RiverResidency\Maintenance\MaintenanceVS2019\MaintenanceMaster\MaintenanceMaster\obj\Debug\netcoreapp3.1\MaintenanceMaster.AssemblyInfo.cs
